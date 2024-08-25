@@ -1,5 +1,7 @@
 # EduTrack Student Management System
 
+![EduTrack Logo](public/logo.jpeg)
+
 ## Overview
 EduTrack is a web-based student record management system designed to facilitate the recording and management of important details for educational institutions. The application provides a user-friendly interface for managing student data, allowing administrators to register, search, update, and view student records efficiently.
 
